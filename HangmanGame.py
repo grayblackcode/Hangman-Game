@@ -59,4 +59,3 @@ while rounds:
 
     except ValueError:
         print("Error! Only one letter from \"Available Letters\" allowed!")
-
